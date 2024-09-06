@@ -2,6 +2,8 @@
 
 🎉Welcome to my Flappy Bird game! 🎉 This project recreates the classic game using 🌐 HTML, 🎨 CSS, and 💻 JavaScript with HTML5 Canvas. 🚀
 
+Project Demo: https://nidhiupman568.github.io/FLAPPY-BIRD-GAME/
+
 ## Features 🌟
 
 - **Game Loop 🔄**: Smooth gameplay with continuous updates. 🎮
